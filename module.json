@@ -1,19 +1,19 @@
 {
-  "id": "daggerheart-it",
-  "title": "Daggerheart - Italiano - non ufficiale",
-  "description": "<p>Questo modulo fornisce una traduzione (non ufficiale) del sistema e dei compendi di Daggerheart Foundryborne.<br>È realizzata dai fan e utilizza il modulo Babele.<br><strong>- Unisciti alla comunità Discord IT :</strong><a href=\"https://discord.gg/pPSDNJk\"> https://discord.gg/pPSDNJk</a></p>",
+  "id": "daggerheart-de",
+  "title": "Daggerheart - Deutsch - Inoffiziell",
+  "description": "<p>Dieses Modul bietet eine (inoffizielle) Übersetzung des Systems und der Kompendien von Daggerheart Foundryborne. Sie wurde von Fans erstellt und nutzt das Modul Babele.</p>",
   "version": "1.0",
   "url": "https://github.com/Arcadio21/daggerheart-it",
-  "manifest": "https://raw.githubusercontent.com/Arcadio21/daggerheart-it/main/module.json",
-  "download": "https://codeload.github.com/Arcadio21/daggerheart-it/zip/main",
+  "manifest": "https://raw.githubusercontent.com/Fenris92/daggerheart-de/main/module.json",
+  "download": "https://codeload.github.com/Fenris92/daggerheart-de/zip/main",
   "compatibility": {
     "minimum": "13",
     "verified": "13"
   },
   "authors": [
     {
-      "name": "Arcadio21",
-      "discord": "Arcadio21",
+      "name": "Fenris92",
+      "discord": "",
       "flags": {}
     }
   ],
@@ -36,13 +36,13 @@
     ]
   },
   "esmodules": [
-    "daggerheart-it.mjs"
+    "daggerheart-de.mjs"
   ],
   "languages": [
     {
-      "lang": "it",
-      "name": "Italian",
-      "path": "lang/it-IT.json",
+      "lang": "de",
+      "name": "Deutsch",
+      "path": "lang/de-DE.json",
       "flags": {}
     }
   ],
