@@ -1,5 +1,5 @@
 // module/scripts/constants.mjs
-var MODULE_ID = "daggerheart-it";
+var MODULE_ID = "daggerheart-de";
 var SETTINGS = {
   FIRST_STARTUP: "firstStartup",
   AUTO_REGISTER_BABELE: "autoRegisterBabele"
