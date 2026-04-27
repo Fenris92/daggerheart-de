@@ -14,8 +14,8 @@ var registerSettings = () => {
     type: Boolean
   });
   game.settings.register(MODULE_ID, SETTINGS.AUTO_REGISTER_BABELE, {
-    name: "Activation automatique de la traduction via Babele",
-    hint: "Implémente automatiquement les traductions Babele sans qu'il soit nécessaire de désigner le répertoire contenant les traductions.",
+    name: "Automatische Aktivierung der Übersetzung via Babele",
+    hint: "Implementiert automatisch die Babele-Übersetzungen, ohne dass das Verzeichnis mit den Übersetzungen angegeben werden muss.",
     scope: "world",
     config: true,
     default: true,
